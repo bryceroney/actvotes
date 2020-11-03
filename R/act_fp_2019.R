@@ -7,7 +7,6 @@
 #'   \item{candidate}{Candidate's name}
 #'   \item{votes}{Number of formal votes}
 #'   \item{polling_place}{Name of the polling place}
-#'   ...
 #' }
 #' @source \url{https://www.electionresults.act.gov.au/Results/PollingPlace}
 "act_fp_2019"

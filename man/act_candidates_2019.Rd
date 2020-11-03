@@ -3,7 +3,7 @@
 \docType{data}
 \name{act_candidates_2019}
 \alias{act_candidates_2019}
-\title{First preference results for the 2019 ACT election.}
+\title{List of candidates in the 2019 ACT election.}
 \format{
 A data frame with 137 rows and 5 variables:
 \describe{
@@ -12,7 +12,6 @@ A data frame with 137 rows and 5 variables:
   \item{last_name}{Candidate's last name}
   \item{first_name}{Candidate's first name}
   \item{ballot_paper_name}{Name as it would appear on the ballot paper, for joining to \link{act_fp_2019}}
-  ...
 }
 }
 \source{

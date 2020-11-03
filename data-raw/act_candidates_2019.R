@@ -45,7 +45,7 @@ act_candidates_2019 <- act_candidates_2019 %>%
          last_name = str_extract(candidate, '([A-Z]{2,}[A-Z-]*)'),
          first_name = str_replace(candidate, paste0(' ', last_name), ''),
          ballot_paper_name = paste0(last_name, ', ', first_name)) %>%
-  mutate(party = factor(party)) %>%
+  mutate(party = factor(party)) %>%p
   select(-candidate)
 
 
