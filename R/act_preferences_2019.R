@@ -1,4 +1,4 @@
-#' First preference results for the 2019 ACT election.
+#' Preference distribution for the 2019 ACT election
 #'
 #' Data is copyright to the ACT Electoral Commission
 #'

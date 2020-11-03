@@ -3,7 +3,7 @@
 \docType{data}
 \name{act_preferences_2019}
 \alias{act_preferences_2019}
-\title{First preference results for the 2019 ACT election.}
+\title{Preference distribution for the 2019 ACT election}
 \format{
 A data frame with 13289 rows and 3 variables:
 \describe{
