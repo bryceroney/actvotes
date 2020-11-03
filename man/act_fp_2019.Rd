@@ -10,7 +10,6 @@ A data frame with 13289 rows and 3 variables:
   \item{candidate}{Candidate's name}
   \item{votes}{Number of formal votes}
   \item{polling_place}{Name of the polling place}
-  ...
 }
 }
 \source{

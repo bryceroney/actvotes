@@ -9,7 +9,7 @@
 status](https://github.com/bryceroney/actvotes/workflows/R-CMD-check/badge.svg)](https://github.com/bryceroney/actvotes/actions)
 <!-- badges: end -->
 
-The goal of actvotes is to …
+This package provides tidy datasets of ACT territory election results.
 
 ## Installation
 
@@ -23,18 +23,34 @@ devtools::install_github("bryceroney/actvotes")
 
 ## Datasets
 
-This package currently contains the 2019 first preference results from
-the [ACT Electoral Commission](https://www.elections.act.gov.au)
+This package currently contains the following datasets from the [ACT
+Electoral Commission](https://www.elections.act.gov.au):
 
-### 2019 First Preference Data
+  - 2019 Election: Candidates and First Preference results
+
+## Usage Example
 
 ``` r
-head(act_fp_2019)
-#>                 candidate votes polling_place
-#> 1              BURCH, Joy    41      Bonython
-#> 2              DAY, Cathy    15      Bonython
-#> 3          FORDE, Brendan    18      Bonython
-#> 4         GENTLEMAN, Mick    43      Bonython
-#> 5 WERNER-GIBBINGS, Taimus    48      Bonython
-#> 6           FAHIZ, Jannah     5      Bonython
+
+act_fp_2019 %>%
+  inner_join(act_candidates_2019, by=c("candidate"="ballot_paper_name")) %>%
+  filter(polling_place == 'Manuka' & electorate == 'Kurrajong' &
+           party %in% c('ACT Labor', 'Canberra Liberals', 'The ACT Greens')) %>%
+  mutate(candidate = reorder(candidate, votes),
+         votes = votes/sum(votes)) %>%
+  ggplot(aes(x=candidate, y=votes)) +
+  geom_col() +
+  coord_flip() +
+  scale_y_continuous(labels = scales::percent_format()) +
+  facet_wrap(~party, scales='free_y', ncol=1) +
+  labs(
+    title = 'Votes by candidate for the three major parties',
+    subtitle = 'Manuka polling place',
+    y = 'Votes (%)',
+    x = NULL,
+    caption = 'Source: ACT Electoral Commission'
+  ) +
+  theme_bw()
 ```
+
+<img src="man/figures/README-plot-1.png" width="100%" />
