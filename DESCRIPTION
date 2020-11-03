@@ -1,10 +1,15 @@
 Package: actvotes
 Type: Package
 Title: Results and Analysis for ACT Election Results
-Version: 0.1.0
+Description: Results for the 2019 ACT election currently included
+Version: 0.0.1000
 Author: Bryce Roney <brycer22@gmail.com>
 Maintainer: Bryce Roney <brycer22@gmail.com>
 Encoding: UTF-8
 LazyData: true
+License: MIT
 URL: https://github.com/bryceroney/actvotes
 BugReports: https://github.com/bryceroney/actvotes/issues
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
