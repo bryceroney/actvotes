@@ -6,3 +6,5 @@ Author: Bryce Roney <brycer22@gmail.com>
 Maintainer: Bryce Roney <brycer22@gmail.com>
 Encoding: UTF-8
 LazyData: true
+URL: https://github.com/bryceroney/actvotes
+BugReports: https://github.com/bryceroney/actvotes/issues
