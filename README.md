@@ -26,7 +26,9 @@ devtools::install_github("bryceroney/actvotes")
 This package currently contains the following datasets from the [ACT
 Electoral Commission](https://www.elections.act.gov.au):
 
-  - 2019 Election: Candidates and First Preference results
+  - 2019 Election: Candidates (`act_candidates_2019`), First Preference
+    (`act_fp_2019`) results and final preference distribution
+    (`act_preferences_2019`).
 
 ## Usage Example
 
