@@ -1,0 +1,2460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>2020 ACT Legislative Assembly Polling Places</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-F57C00-normal">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-highlight">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-F57C00">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-F57C00-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-F57C00-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Polling Places</name>
+      <Placemark>
+        <name>Ainslie</name>
+        <address>136 Majura Avenue Ainslie 2602 lat: -35.255295, lng: 149.147507</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Ainslie North<br>Premises: North Ainslie Primary School<br>Address: 136 Majura Avenue<br>Postcode: 2602<br>Coordinates: lat: -35.255295, lng: 149.147507<br>Polling area: Senior Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Ainslie North</value>
+          </Data>
+          <Data name="Premises">
+            <value>North Ainslie Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>136 Majura Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2602</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.255295, lng: 149.147507</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Senior Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Amaroo</name>
+        <address>135 Katherine Avenue Amaroo 2914 lat: -35.164513, Ing: 149.128387</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Amaroo<br>Premises: Amaroo School<br>Address: 135 Katherine Avenue<br>Postcode: 2914<br>Coordinates: lat: -35.164513, Ing: 149.128387<br>Polling area: Hall/Canteen]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Amaroo</value>
+          </Data>
+          <Data name="Premises">
+            <value>Amaroo School</value>
+          </Data>
+          <Data name="Address">
+            <value>135 Katherine Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2914</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.164513, Ing: 149.128387</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall/Canteen</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Aranda</name>
+        <address>1 Banambila Street Aranda 2614 lat: -35.255314, lng: 149.080322</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Aranda<br>Premises: Aranda Primary School<br>Address: 1 Banambila Street<br>Postcode: 2614<br>Coordinates: lat: -35.255314, lng: 149.080322<br>Polling area: General Purpose Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Aranda</value>
+          </Data>
+          <Data name="Premises">
+            <value>Aranda Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>1 Banambila Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2614</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.255314, lng: 149.080322</value>
+          </Data>
+          <Data name="Polling area">
+            <value>General Purpose Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>BELCONNEN</name>
+        <address>cnr Swanson Court and Chandler Street BELCONNEN 2617 lat: -35.23915,  lng: 149.070362</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Belconnen<br>Premises: Belconnen Community Centre<br>Address: cnr Swanson Court and Chandler Street<br>Postcode: 2617<br>Coordinates: lat: -35.23915,  lng: 149.070362<br>Polling area: Gym]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Belconnen</value>
+          </Data>
+          <Data name="Premises">
+            <value>Belconnen Community Centre</value>
+          </Data>
+          <Data name="Address">
+            <value>cnr Swanson Court and Chandler Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.23915,  lng: 149.070362</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Gym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bonner</name>
+        <address>60 Mabo Boulevard Bonner 2914 lat: -35.161709, lng: 149.140756</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Bonner<br>Premises: Neville Bonner Primary School<br>Address: 60 Mabo Boulevard<br>Postcode: 2914<br>Coordinates: lat: -35.161709, lng: 149.140756<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Bonner</value>
+          </Data>
+          <Data name="Premises">
+            <value>Neville Bonner Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>60 Mabo Boulevard</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2914</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.161709, lng: 149.140756</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Bonython</name>
+        <address>64 Hurtle Ave Bonython 2615 lat: -35.430943, lng: 149.08252</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Bonython<br>Premises: Bonython Primary School<br>Address: 64 Hurtle Ave<br>Postcode: 2615<br>Coordinates: lat: -35.430943, lng: 149.08252<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Bonython</value>
+          </Data>
+          <Data name="Premises">
+            <value>Bonython Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>64 Hurtle Ave</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.430943, lng: 149.08252</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Brandon</name>
+        <address>33 Donaldson Street Brandon 2612 lat: -35.273299, Ing: 149.141730</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Ainslie<br>Premises: Ainslie School<br>Address: 33 Donaldson Street<br>Postcode: 2612<br>Coordinates: lat: -35.273299, Ing: 149.141730<br>Polling area: YERRA Building]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Ainslie</value>
+          </Data>
+          <Data name="Premises">
+            <value>Ainslie School</value>
+          </Data>
+          <Data name="Address">
+            <value>33 Donaldson Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2612</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.273299, Ing: 149.141730</value>
+          </Data>
+          <Data name="Polling area">
+            <value>YERRA Building</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Calwell</name>
+        <address>111 Casey Crescent Calwell 2905 lat: -35.440746, Ing: 149.117599</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Calwell<br>Premises: Calwell High School<br>Address: 111 Casey Crescent<br>Postcode: 2905<br>Coordinates: lat: -35.440746, Ing: 149.117599<br>Polling area: Gym]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Calwell</value>
+          </Data>
+          <Data name="Premises">
+            <value>Calwell High School</value>
+          </Data>
+          <Data name="Address">
+            <value>111 Casey Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.440746, Ing: 149.117599</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Gym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Campbell</name>
+        <address>25 Chauvel St Campbell 2612 lat: -35.290752, Ing: 149.155594</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Campbell<br>Premises: Campbell Primary School<br>Address: 25 Chauvel St<br>Postcode: 2612<br>Coordinates: lat: -35.290752, Ing: 149.155594<br>Polling area: AssGym]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Campbell</value>
+          </Data>
+          <Data name="Premises">
+            <value>Campbell Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>25 Chauvel St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2612</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.290752, Ing: 149.155594</value>
+          </Data>
+          <Data name="Polling area">
+            <value>AssGym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Canberra City</name>
+        <address>69 Northbourne Ave Canberra City 2601 lat: -35.276665, lng: 149.129202</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: City<br>Premises: Pilgrim House<br>Address: 69 Northbourne Ave<br>Postcode: 2601<br>Coordinates: lat: -35.276665, lng: 149.129202<br>Polling area: Riley Hall & Gifford Room]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>City</value>
+          </Data>
+          <Data name="Premises">
+            <value>Pilgrim House</value>
+          </Data>
+          <Data name="Address">
+            <value>69 Northbourne Ave</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2601</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.276665, lng: 149.129202</value>
+          </Data>
+          <Data name="Polling area">
+            <value><![CDATA[Riley Hall & Gifford Room]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>CANBERRA CITY</name>
+        <address>176 London Circuit CANBERRA CITY 2601 lat: -35.28051, Ing: 149.13086</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: City East<br>Premises: Canberra Museam and Gallery<br>Address: 176 London Circuit<br>Postcode: 2601<br>Coordinates: lat: -35.28051, Ing: 149.13086<br>Polling area: Gallery 1]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>City East</value>
+          </Data>
+          <Data name="Premises">
+            <value>Canberra Museam and Gallery</value>
+          </Data>
+          <Data name="Address">
+            <value>176 London Circuit</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2601</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.28051, Ing: 149.13086</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Gallery 1</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chapman</name>
+        <address>50 Perry Drive Chapman 2611 lat: -35.356277, Ing: 149.043015</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Chapman<br>Premises: Chapman Primary School<br>Address: 50 Perry Drive<br>Postcode: 2611<br>Coordinates: lat: -35.356277, Ing: 149.043015<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Chapman</value>
+          </Data>
+          <Data name="Premises">
+            <value>Chapman Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>50 Perry Drive</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.356277, Ing: 149.043015</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Charnwood</name>
+        <address>25 Lhotsky Street Charnwood 2617 lat: -35.205223, lng: 149.030483</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Charnwood<br>Premises: St Thomas Aquinas Primary School<br>Address: 25 Lhotsky Street<br>Postcode: 2617<br>Coordinates: lat: -35.205223, lng: 149.030483<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Charnwood</value>
+          </Data>
+          <Data name="Premises">
+            <value>St Thomas Aquinas Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>25 Lhotsky Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.205223, lng: 149.030483</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Charnwood</name>
+        <address>95 Bettington Circuit Charnwood 2615 lat: -35.198719, Ing: 149.036179</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Charnwood North<br>Premises: Charnwood-Dunlop School<br>Address: 95 Bettington Circuit<br>Postcode: 2615<br>Coordinates: lat: -35.198719, Ing: 149.036179<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Charnwood North</value>
+          </Data>
+          <Data name="Premises">
+            <value>Charnwood-Dunlop School</value>
+          </Data>
+          <Data name="Address">
+            <value>95 Bettington Circuit</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.198719, Ing: 149.036179</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Chisholm</name>
+        <address>26 Benham St Chisholm 2905 lat: -35.414584, Ing: 149.128351</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Chisholm<br>Premises: Unit 3<br>Address: 26 Benham St<br>Postcode: 2905<br>Coordinates: lat: -35.414584, Ing: 149.128351<br>Polling area: ]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Chisholm</value>
+          </Data>
+          <Data name="Premises">
+            <value>Unit 3</value>
+          </Data>
+          <Data name="Address">
+            <value>26 Benham St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.414584, Ing: 149.128351</value>
+          </Data>
+          <Data name="Polling area">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Conder</name>
+        <address>21 Sidney Nolan Street Conder 2906 lat: -35.458096, Ing: 149.094136</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Lanyon<br>Premises: Lanyon Marketplace<br>Address: 21 Sidney Nolan Street<br>Postcode: 2906<br>Coordinates: lat: -35.458096, Ing: 149.094136<br>Polling area: Shops 6 & 7]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Lanyon</value>
+          </Data>
+          <Data name="Premises">
+            <value>Lanyon Marketplace</value>
+          </Data>
+          <Data name="Address">
+            <value>21 Sidney Nolan Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2906</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.458096, Ing: 149.094136</value>
+          </Data>
+          <Data name="Polling area">
+            <value><![CDATA[Shops 6 & 7]]></value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Coombs</name>
+        <address>80 Woodberry Avenue Coombs 2904 lat: -35.322382, lng: 149.042317</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Coombs<br>Premises: Charles Weston School<br>Address: 80 Woodberry Avenue<br>Postcode: 2904<br>Coordinates: lat: -35.322382, lng: 149.042317<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Coombs</value>
+          </Data>
+          <Data name="Premises">
+            <value>Charles Weston School</value>
+          </Data>
+          <Data name="Address">
+            <value>80 Woodberry Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2904</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.322382, lng: 149.042317</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Curtin</name>
+        <address>Theodore Street Curtin 2605 lat: -35.330921, Ing: 149.079758</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Curtin<br>Premises: Curtin Primary School<br>Address: Theodore Street<br>Postcode: 2605<br>Coordinates: lat: -35.330921, Ing: 149.079758<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Curtin</value>
+          </Data>
+          <Data name="Premises">
+            <value>Curtin Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Theodore Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2605</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.330921, Ing: 149.079758</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Deakin</name>
+        <address>24 Grey St Deakin 2600 lat: -35.312139, Ing: 149.110754</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Deakin<br>Premises: Canberra Girls Grammar School (Junior School)<br>Address: 24 Grey St<br>Postcode: 2600<br>Coordinates: lat: -35.312139, Ing: 149.110754<br>Polling area: Junior Grammer School hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Deakin</value>
+          </Data>
+          <Data name="Premises">
+            <value>Canberra Girls Grammar School (Junior School)</value>
+          </Data>
+          <Data name="Address">
+            <value>24 Grey St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2600</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.312139, Ing: 149.110754</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Junior Grammer School hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Dickson</name>
+        <address>490 Northbourne Ave Dickson 2602 lat: -35.249283, lng: 149.143063</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Dickson<br>Premises: Ground Floor, WOTSO Dickson<br>Address: 490 Northbourne Ave<br>Postcode: 2602<br>Coordinates: lat: -35.249283, lng: 149.143063<br>Polling area: Ground Floor, New Tenancy (253 square metres)]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Dickson</value>
+          </Data>
+          <Data name="Premises">
+            <value>Ground Floor, WOTSO Dickson</value>
+          </Data>
+          <Data name="Address">
+            <value>490 Northbourne Ave</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2602</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.249283, lng: 149.143063</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Ground Floor, New Tenancy (253 square metres)</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Downer</name>
+        <address>Frencham Place Downer 2602 lat: -35.244885, lng: 149.144907</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Downer<br>Premises: Downer Community Centre<br>Address: Frencham Place<br>Postcode: 2602<br>Coordinates: lat: -35.244885, lng: 149.144907<br>Polling area: West and East Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Downer</value>
+          </Data>
+          <Data name="Premises">
+            <value>Downer Community Centre</value>
+          </Data>
+          <Data name="Address">
+            <value>Frencham Place</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2602</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.244885, lng: 149.144907</value>
+          </Data>
+          <Data name="Polling area">
+            <value>West and East Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Duffy</name>
+        <address>47 Burrinjuck Crescent Duffy 2611 lat: -35.33483, Ing: 149.03324</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Duffy<br>Premises: Duffy Primary School<br>Address: 47 Burrinjuck Crescent<br>Postcode: 2611<br>Coordinates: lat: -35.33483, Ing: 149.03324<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Duffy</value>
+          </Data>
+          <Data name="Premises">
+            <value>Duffy Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>47 Burrinjuck Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.33483, Ing: 149.03324</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Evatt</name>
+        <address>42 Heydon Cres Evatt 2617 lat: -35.20725, Ing: 149.0776</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Evatt<br>Premises: Evatt Primary School<br>Address: 42 Heydon Cres<br>Postcode: 2617<br>Coordinates: lat: -35.20725, Ing: 149.0776<br>Polling area: Assembly Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Evatt</value>
+          </Data>
+          <Data name="Premises">
+            <value>Evatt Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>42 Heydon Cres</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.20725, Ing: 149.0776</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Assembly Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Evatt</name>
+        <address>Alderman Street Evatt 2617 lat: -35.213676, Ing: 149.066147</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Evatt South<br>Premises: Miles Franklin Primary School<br>Address: Alderman Street<br>Postcode: 2617<br>Coordinates: lat: -35.213676, Ing: 149.066147<br>Polling area: school hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Evatt South</value>
+          </Data>
+          <Data name="Premises">
+            <value>Miles Franklin Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Alderman Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.213676, Ing: 149.066147</value>
+          </Data>
+          <Data name="Polling area">
+            <value>school hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fadden</name>
+        <address>5 Hanlon Cres Fadden 2904 lat: -35.40374, Ing: 149.11822</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Fadden<br>Premises: Fadden Primary School<br>Address: 5 Hanlon Cres<br>Postcode: 2904<br>Coordinates: lat: -35.40374, Ing: 149.11822<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Fadden</value>
+          </Data>
+          <Data name="Premises">
+            <value>Fadden Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>5 Hanlon Cres</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2904</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.40374, Ing: 149.11822</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Farrer</name>
+        <address>Lambrigg Street Farrer 2607 lat: -35.37812, Ing: 149.10683</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Farrer<br>Premises: Farrer Primary School<br>Address: Lambrigg Street<br>Postcode: 2607<br>Coordinates: lat: -35.37812, Ing: 149.10683<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Farrer</value>
+          </Data>
+          <Data name="Premises">
+            <value>Farrer Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Lambrigg Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2607</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.37812, Ing: 149.10683</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Florey</name>
+        <address>12 Barnard Circuit Florey 2914 lat: -35.22626, Ing: 149.04044</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Florey<br>Premises: St Francis Xavier College<br>Address: 12 Barnard Circuit<br>Postcode: 2914<br>Coordinates: lat: -35.22626, Ing: 149.04044<br>Polling area: Performing Arts area]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Florey</value>
+          </Data>
+          <Data name="Premises">
+            <value>St Francis Xavier College</value>
+          </Data>
+          <Data name="Address">
+            <value>12 Barnard Circuit</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2914</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.22626, Ing: 149.04044</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Performing Arts area</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Flynn</name>
+        <address>21 Bingle St Flynn 2615 lat: -35.205657, Ing: 149.045162</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Flynn<br>Premises: Flynn Community Hub<br>Address: 21 Bingle St<br>Postcode: 2615<br>Coordinates: lat: -35.205657, Ing: 149.045162<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Flynn</value>
+          </Data>
+          <Data name="Premises">
+            <value>Flynn Community Hub</value>
+          </Data>
+          <Data name="Address">
+            <value>21 Bingle St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.205657, Ing: 149.045162</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>FORDE</name>
+        <address><![CDATA[Cnr Francis Forde Blvd & Hurrell St FORDE 2914 lat: -35.17091, Ing: 149.14284]]></address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Forde<br>Premises: Burgmann Anglican School - Forde<br>Address: Cnr Francis Forde Blvd & Hurrell St<br>Postcode: 2914<br>Coordinates: lat: -35.17091, Ing: 149.14284<br>Polling area: Forde Campus Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Forde</value>
+          </Data>
+          <Data name="Premises">
+            <value>Burgmann Anglican School - Forde</value>
+          </Data>
+          <Data name="Address">
+            <value><![CDATA[Cnr Francis Forde Blvd & Hurrell St]]></value>
+          </Data>
+          <Data name="Postcode">
+            <value>2914</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.17091, Ing: 149.14284</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Forde Campus Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Fraser</name>
+        <address>177 Tillyard Drive Fraser 2611 lat: -35.191893, lng: 149.043024</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Fraser<br>Premises: Fraser Primary School<br>Address: 177 Tillyard Drive<br>Postcode: 2611<br>Coordinates: lat: -35.191893, lng: 149.043024<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Fraser</value>
+          </Data>
+          <Data name="Premises">
+            <value>Fraser Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>177 Tillyard Drive</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.191893, lng: 149.043024</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Garran</name>
+        <address>136 Gilmore Crescent Garran 2605 lat: -35.344677, Ing: 149.102936</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Garran<br>Premises: Garran Primary School<br>Address: 136 Gilmore Crescent<br>Postcode: 2605<br>Coordinates: lat: -35.344677, Ing: 149.102936<br>Polling area: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Garran</value>
+          </Data>
+          <Data name="Premises">
+            <value>Garran Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>136 Gilmore Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2605</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.344677, Ing: 149.102936</value>
+          </Data>
+          <Data name="Polling area">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gilmore</name>
+        <address>219 Heagney Crescent Gilmore 2905 lat: -35.418915, Ing: 149.134659</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Gilmore<br>Premises: Gilmore Primary School<br>Address: 219 Heagney Crescent<br>Postcode: 2905<br>Coordinates: lat: -35.418915, Ing: 149.134659<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Gilmore</value>
+          </Data>
+          <Data name="Premises">
+            <value>Gilmore Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>219 Heagney Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.418915, Ing: 149.134659</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Giralang</name>
+        <address>12 Atalumba Close Giralang 2617 lat: -35.21426, Ing: 149.09521</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Giralang<br>Premises: Giralang Primary School<br>Address: 12 Atalumba Close<br>Postcode: 2617<br>Coordinates: lat: -35.21426, Ing: 149.09521<br>Polling area: School hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Giralang</value>
+          </Data>
+          <Data name="Premises">
+            <value>Giralang Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>12 Atalumba Close</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.21426, Ing: 149.09521</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gordon</name>
+        <address>15 Knoke Avenue Gordon 2605 lat: -35.45644, Ing: 149.086731</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Gordon<br>Premises: Gordon Primary School<br>Address: 15 Knoke Avenue<br>Postcode: 2605<br>Coordinates: lat: -35.45644, Ing: 149.086731<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Gordon</value>
+          </Data>
+          <Data name="Premises">
+            <value>Gordon Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>15 Knoke Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2605</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.45644, Ing: 149.086731</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gowrie</name>
+        <address>Jeffries Street Gowrie 2904 lat: -35.413719, Ing: 149.110703</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Gowrie<br>Premises: Gowrie Primary School<br>Address: Jeffries Street<br>Postcode: 2904<br>Coordinates: lat: -35.413719, Ing: 149.110703<br>Polling area: Old Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Gowrie</value>
+          </Data>
+          <Data name="Premises">
+            <value>Gowrie Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Jeffries Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2904</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.413719, Ing: 149.110703</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Old Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Griffith</name>
+        <address>33 Bougainville St Griffith 2603 lat: -35.320274, Ing: 149.131809</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Manuka<br>Premises: Manuka Village<br>Address: 33 Bougainville St<br>Postcode: 2603<br>Coordinates: lat: -35.320274, Ing: 149.131809<br>Polling area: Shop 10]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Manuka</value>
+          </Data>
+          <Data name="Premises">
+            <value>Manuka Village</value>
+          </Data>
+          <Data name="Address">
+            <value>33 Bougainville St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2603</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.320274, Ing: 149.131809</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Shop 10</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Griffith</name>
+        <address>110 Canberra Avenue Griffith 2603 lat: -35.323277, lng: 149.145721</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Griffith<br>Premises: St Edmund's College<br>Address: 110 Canberra Avenue<br>Postcode: 2603<br>Coordinates: lat: -35.323277, lng: 149.145721<br>Polling area: Gym]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Griffith</value>
+          </Data>
+          <Data name="Premises">
+            <value><![CDATA[St Edmund's College]]></value>
+          </Data>
+          <Data name="Address">
+            <value>110 Canberra Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2603</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.323277, lng: 149.145721</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Gym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gungahlin</name>
+        <address>8 Gribble St Gungahlin 2912 lat: -35.182477, lng: 149.131163</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Gungahlin City North<br>Premises: Ruby Apartments<br>Address: 8 Gribble St<br>Postcode: 2912<br>Coordinates: lat: -35.182477, lng: 149.131163<br>Polling area: Units 183 - 186]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Gungahlin City North</value>
+          </Data>
+          <Data name="Premises">
+            <value>Ruby Apartments</value>
+          </Data>
+          <Data name="Address">
+            <value>8 Gribble St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2912</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.182477, lng: 149.131163</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Units 183 - 186</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Gungahlin</name>
+        <address>Warwick Street Gungahlin 2912 lat: -35.184608, Ing: 149.126617</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Gungahlin City West<br>Premises: Gungahlin Enclosed Oval<br>Address: Warwick Street<br>Postcode: 2912<br>Coordinates: lat: -35.184608, Ing: 149.126617<br>Polling area: Function Room]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Gungahlin City West</value>
+          </Data>
+          <Data name="Premises">
+            <value>Gungahlin Enclosed Oval</value>
+          </Data>
+          <Data name="Address">
+            <value>Warwick Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2912</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.184608, Ing: 149.126617</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Function Room</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hall</name>
+        <address>Corner Palmer and Hoskins Street Hall 2618 lat: -35.166896, Ing: 149.069321</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Hall<br>Premises: Hall School Museum<br>Address: Corner Palmer and Hoskins Street<br>Postcode: 2618<br>Coordinates: lat: -35.166896, Ing: 149.069321<br>Polling area: Library]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Hall</value>
+          </Data>
+          <Data name="Premises">
+            <value>Hall School Museum</value>
+          </Data>
+          <Data name="Address">
+            <value>Corner Palmer and Hoskins Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2618</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.166896, Ing: 149.069321</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Library</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Harrison</name>
+        <address>11 Wimmera St Harrison 2914 lat: -35.199347, Ing: 149.150674</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Harrison<br>Premises: Harrison Green<br>Address: 11 Wimmera St<br>Postcode: 2914<br>Coordinates: lat: -35.199347, Ing: 149.150674<br>Polling area: Unit 96]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Harrison</value>
+          </Data>
+          <Data name="Premises">
+            <value>Harrison Green</value>
+          </Data>
+          <Data name="Address">
+            <value>11 Wimmera St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2914</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.199347, Ing: 149.150674</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Unit 96</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Holder</name>
+        <address>49 Mulley Street Holder 2611 lat: -35.334171, lng: 149.049881</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Holder<br>Premises: St Jude's Primary School<br>Address: 49 Mulley Street<br>Postcode: 2611<br>Coordinates: lat: -35.334171, lng: 149.049881<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Holder</value>
+          </Data>
+          <Data name="Premises">
+            <value><![CDATA[St Jude's Primary School]]></value>
+          </Data>
+          <Data name="Address">
+            <value>49 Mulley Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.334171, lng: 149.049881</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>HOLT</name>
+        <address>80 Beaurepaire Cres HOLT 2615 lat: -35.222587, Ing: 149.011819</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Kippax<br>Premises: Holt Community Centre<br>Address: 80 Beaurepaire Cres<br>Postcode: 2615<br>Coordinates: lat: -35.222587, Ing: 149.011819<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Kippax</value>
+          </Data>
+          <Data name="Premises">
+            <value>Holt Community Centre</value>
+          </Data>
+          <Data name="Address">
+            <value>80 Beaurepaire Cres</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.222587, Ing: 149.011819</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Holt</name>
+        <address>100 Starke Street Holt 2615 lat: -35.227711, lng: 149.020844</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Holt<br>Premises: Kingsford Smith School<br>Address: 100 Starke Street<br>Postcode: 2615<br>Coordinates: lat: -35.227711, lng: 149.020844<br>Polling area: Junior Hall / Gym]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Holt</value>
+          </Data>
+          <Data name="Premises">
+            <value>Kingsford Smith School</value>
+          </Data>
+          <Data name="Address">
+            <value>100 Starke Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.227711, lng: 149.020844</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Junior Hall / Gym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Hughes</name>
+        <address>10 Groom Street Hughes 2605 lat: -35.331875, Ing: 149.093063</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Hughes<br>Premises: Hughes Primary School<br>Address: 10 Groom Street<br>Postcode: 2605<br>Coordinates: lat: -35.331875, Ing: 149.093063<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Hughes</value>
+          </Data>
+          <Data name="Premises">
+            <value>Hughes Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>10 Groom Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2605</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.331875, Ing: 149.093063</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Isabella Plains</name>
+        <address>130-140 Ellerston Avenue Isabella Plains 2905 lat: -35.428635, lng: 149.089127</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Isabella Plains<br>Premises: Isabella Plains Early Childhood School<br>Address: 130-140 Ellerston Avenue<br>Postcode: 2905<br>Coordinates: lat: -35.428635, lng: 149.089127<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Isabella Plains</value>
+          </Data>
+          <Data name="Premises">
+            <value>Isabella Plains Early Childhood School</value>
+          </Data>
+          <Data name="Address">
+            <value>130-140 Ellerston Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.428635, lng: 149.089127</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>KALEEN</name>
+        <address>19 Ashburton Circuit KALEEN 2617 lat: -35.224274, Ing: 149.113098</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Kaleen<br>Premises: Kaleen Primary School<br>Address: 19 Ashburton Circuit<br>Postcode: 2617<br>Coordinates: lat: -35.224274, Ing: 149.113098<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Kaleen</value>
+          </Data>
+          <Data name="Premises">
+            <value>Kaleen Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>19 Ashburton Circuit</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2617</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.224274, Ing: 149.113098</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kaleen</name>
+        <address>100 Alberga Street Kaleen 2606 lat: -35.23489, Ing: 149.10325</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Kaleen South<br>Premises: Maribyrnong Primary School<br>Address: 100 Alberga Street<br>Postcode: 2606<br>Coordinates: lat: -35.23489, Ing: 149.10325<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Kaleen South</value>
+          </Data>
+          <Data name="Premises">
+            <value>Maribyrnong Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>100 Alberga Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2606</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.23489, Ing: 149.10325</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kambah</name>
+        <address>88 Marconi Crescent Kambah 2902 lat: -35.378422, Ing: 149.063950</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Kambah North<br>Premises: Taylor Primary School<br>Address: 88 Marconi Crescent<br>Postcode: 2902<br>Coordinates: lat: -35.378422, Ing: 149.063950<br>Polling area: School hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Kambah North</value>
+          </Data>
+          <Data name="Premises">
+            <value>Taylor Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>88 Marconi Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2902</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.378422, Ing: 149.063950</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kambah</name>
+        <address><![CDATA[141 O'Halloran Circuit Kambah 2902 lat: -35.392456, lng: 149.067337]]></address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Kambah South<br>Premises: Namadgi School<br>Address: 141 O'Halloran Circuit<br>Postcode: 2902<br>Coordinates: lat: -35.392456, lng: 149.067337<br>Polling area: Urambi Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Kambah South</value>
+          </Data>
+          <Data name="Premises">
+            <value>Namadgi School</value>
+          </Data>
+          <Data name="Address">
+            <value><![CDATA[141 O'Halloran Circuit]]></value>
+          </Data>
+          <Data name="Postcode">
+            <value>2902</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.392456, lng: 149.067337</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Urambi Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Kambah</name>
+        <address>41 Boddington Crescent Kambah 2902 lat: -35.38065, lng: 149.053009</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Kambah West<br>Premises: St Thomas the Apostle Primary School<br>Address: 41 Boddington Crescent<br>Postcode: 2902<br>Coordinates: lat: -35.38065, lng: 149.053009<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Kambah West</value>
+          </Data>
+          <Data name="Premises">
+            <value>St Thomas the Apostle Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>41 Boddington Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2902</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.38065, lng: 149.053009</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Latham</name>
+        <address><![CDATA[O'Loghlen St Latham 2615 lat: -35.219757, Ing: 149.034622]]></address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Latham<br>Premises: Latham Primary School<br>Address: O'Loghlen St<br>Postcode: 2615<br>Coordinates: lat: -35.219757, Ing: 149.034622<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Latham</value>
+          </Data>
+          <Data name="Premises">
+            <value>Latham Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value><![CDATA[O'Loghlen St]]></value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.219757, Ing: 149.034622</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>LYNEHAM</name>
+        <address>68 Brigalow Street LYNEHAM 2602 lat: -35.24749, Ing: 149.12771</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Lyneham<br>Premises: Lyneham Primary School<br>Address: 68 Brigalow Street<br>Postcode: 2602<br>Coordinates: lat: -35.24749, Ing: 149.12771<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Lyneham</value>
+          </Data>
+          <Data name="Premises">
+            <value>Lyneham Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>68 Brigalow Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2602</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.24749, Ing: 149.12771</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Lyons</name>
+        <address>38 Tarraleah Crescent Lyons 2604 lat: -35.34161, Ing: 149.07651</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Lyons<br>Premises: Lyons Early Childhood School<br>Address: 38 Tarraleah Crescent<br>Postcode: 2604<br>Coordinates: lat: -35.34161, Ing: 149.07651<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Lyons</value>
+          </Data>
+          <Data name="Premises">
+            <value>Lyons Early Childhood School</value>
+          </Data>
+          <Data name="Address">
+            <value>38 Tarraleah Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2604</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.34161, Ing: 149.07651</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Macgregor</name>
+        <address>Hirschfeld Crescent Macgregor 2615 lat: -35.212910, Ing: 149.012299</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Macgregor<br>Premises: Macgregor Primary School<br>Address: Hirschfeld Crescent<br>Postcode: 2615<br>Coordinates: lat: -35.212910, Ing: 149.012299<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Macgregor</value>
+          </Data>
+          <Data name="Premises">
+            <value>Macgregor Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Hirschfeld Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.212910, Ing: 149.012299</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Macquarie</name>
+        <address>46 Bennelong Crescent Macquarie 2614 lat: -35.25019, Ing: 149.05907</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Macquarie<br>Premises: Macquarie Primary School<br>Address: 46 Bennelong Crescent<br>Postcode: 2614<br>Coordinates: lat: -35.25019, Ing: 149.05907<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Macquarie</value>
+          </Data>
+          <Data name="Premises">
+            <value>Macquarie Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>46 Bennelong Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2614</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.25019, Ing: 149.05907</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Mawson</name>
+        <address>62 Ainsworth Street Mawson 2607 lat: -35.35852, Ing: 149.09785</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Mawson<br>Premises: Mawson Primary School<br>Address: 62 Ainsworth Street<br>Postcode: 2607<br>Coordinates: lat: -35.35852, Ing: 149.09785<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Mawson</value>
+          </Data>
+          <Data name="Premises">
+            <value>Mawson Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>62 Ainsworth Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2607</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.35852, Ing: 149.09785</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Melba</name>
+        <address>Alfred Hill Drive Melba 2615 lat: -35.208294, lng: 149.055771</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Melba<br>Premises: Mount Rogers Primary School<br>Address: Alfred Hill Drive<br>Postcode: 2615<br>Coordinates: lat: -35.208294, lng: 149.055771<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Melba</value>
+          </Data>
+          <Data name="Premises">
+            <value>Mount Rogers Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>Alfred Hill Drive</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2615</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.208294, lng: 149.055771</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Monash</name>
+        <address>45 Corlette Crescent Monash 2904 lat: -35.414082, Ing: 149.090546</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Monash<br>Premises: Monash Primary School<br>Address: 45 Corlette Crescent<br>Postcode: 2904<br>Coordinates: lat: -35.414082, Ing: 149.090546<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Monash</value>
+          </Data>
+          <Data name="Premises">
+            <value>Monash Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>45 Corlette Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2904</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.414082, Ing: 149.090546</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Narrabundah</name>
+        <address>23-27 Kootara Crescent Narrabundah 2607 lat: -35.329025, lng: 149.150543</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Narrabundah<br>Premises: Narrabundah Early Childhood School<br>Address: 23-27 Kootara Crescent<br>Postcode: 2607<br>Coordinates: lat: -35.329025, lng: 149.150543<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Narrabundah</value>
+          </Data>
+          <Data name="Premises">
+            <value>Narrabundah Early Childhood School</value>
+          </Data>
+          <Data name="Address">
+            <value>23-27 Kootara Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2607</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.329025, lng: 149.150543</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Ngunnawal</name>
+        <address>11 Unaipon Avenue Ngunnawal 2913 lat: -35.16871, Ing: 149.1111</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Ngunnawal<br>Premises: Ngunnawal Primary School<br>Address: 11 Unaipon Avenue<br>Postcode: 2913<br>Coordinates: lat: -35.16871, Ing: 149.1111<br>Polling area: school hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Ngunnawal</value>
+          </Data>
+          <Data name="Premises">
+            <value>Ngunnawal Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>11 Unaipon Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2913</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.16871, Ing: 149.1111</value>
+          </Data>
+          <Data name="Polling area">
+            <value>school hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Nicholls</name>
+        <address>40 Kelleway Ave Nicholls 2913 lat: -35.18173, Ing: 149.10038</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Nicholls<br>Premises: Nicholls Joint Facilities (Gold Creek School Junior Site)<br>Address: 40 Kelleway Ave<br>Postcode: 2913<br>Coordinates: lat: -35.18173, Ing: 149.10038<br>Polling area: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Nicholls</value>
+          </Data>
+          <Data name="Premises">
+            <value>Nicholls Joint Facilities (Gold Creek School Junior Site)</value>
+          </Data>
+          <Data name="Address">
+            <value>40 Kelleway Ave</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2913</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.18173, Ing: 149.10038</value>
+          </Data>
+          <Data name="Polling area">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Oaks Estate</name>
+        <address>2 William Street Oaks Estate 2620 lat: -35.342200, Ing: 149.230563</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Oaks Estate<br>Premises: Oaks Estate Community Hall<br>Address: 2 William Street<br>Postcode: 2620<br>Coordinates: lat: -35.342200, Ing: 149.230563<br>Polling area: Community Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Oaks Estate</value>
+          </Data>
+          <Data name="Premises">
+            <value>Oaks Estate Community Hall</value>
+          </Data>
+          <Data name="Address">
+            <value>2 William Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2620</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.342200, Ing: 149.230563</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Community Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Page</name>
+        <address>12 Stutchbury Street Page 2614 lat: -35.24049, Ing: 149.04284</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Page<br>Premises: St Matthew's Primary School<br>Address: 12 Stutchbury Street<br>Postcode: 2614<br>Coordinates: lat: -35.24049, Ing: 149.04284<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Page</value>
+          </Data>
+          <Data name="Premises">
+            <value><![CDATA[St Matthew's Primary School]]></value>
+          </Data>
+          <Data name="Address">
+            <value>12 Stutchbury Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2614</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.24049, Ing: 149.04284</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Palmerston</name>
+        <address>88 Kosciuszko Avenue Palmerston 2913 lat: -35.197498, lng: 149.120529</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Palmerston<br>Premises: Palmerston District Primary School<br>Address: 88 Kosciuszko Avenue<br>Postcode: 2913<br>Coordinates: lat: -35.197498, lng: 149.120529<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Palmerston</value>
+          </Data>
+          <Data name="Premises">
+            <value>Palmerston District Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>88 Kosciuszko Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2913</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.197498, lng: 149.120529</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Pearce</name>
+        <address>35 Marr Street Pearce 2607 lat: -35.36273, Ing: 149.08859</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Pearce<br>Premises: Melrose High School<br>Address: 35 Marr Street<br>Postcode: 2607<br>Coordinates: lat: -35.36273, Ing: 149.08859<br>Polling area: The Malcolm Barlow Assembly Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Pearce</value>
+          </Data>
+          <Data name="Premises">
+            <value>Melrose High School</value>
+          </Data>
+          <Data name="Address">
+            <value>35 Marr Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2607</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.36273, Ing: 149.08859</value>
+          </Data>
+          <Data name="Polling area">
+            <value>The Malcolm Barlow Assembly Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Red Hill</name>
+        <address>25 Astrolabe Street Red Hill 2603 lat: -35.33911, Ing: 149.13319</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Red Hill<br>Premises: Red Hill Primary School<br>Address: 25 Astrolabe Street<br>Postcode: 2603<br>Coordinates: lat: -35.33911, Ing: 149.13319<br>Polling area: General Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Red Hill</value>
+          </Data>
+          <Data name="Premises">
+            <value>Red Hill Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>25 Astrolabe Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2603</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.33911, Ing: 149.13319</value>
+          </Data>
+          <Data name="Polling area">
+            <value>General Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Richardson</name>
+        <address>21 May Gibbs Close Richardson 2905 lat: -35.429218, Ing: 149.114243</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Richardson<br>Premises: Richardson Primary School<br>Address: 21 May Gibbs Close<br>Postcode: 2905<br>Coordinates: lat: -35.429218, Ing: 149.114243<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Richardson</value>
+          </Data>
+          <Data name="Premises">
+            <value>Richardson Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>21 May Gibbs Close</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.429218, Ing: 149.114243</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Scullin</name>
+        <address>Wirraway Crescent Scullin 2614 lat: -35.23256, Ing: 149.03841</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Scullin<br>Premises: Southern Cross Early Childhood School<br>Address: Wirraway Crescent<br>Postcode: 2614<br>Coordinates: lat: -35.23256, Ing: 149.03841<br>Polling area: School hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Scullin</value>
+          </Data>
+          <Data name="Premises">
+            <value>Southern Cross Early Childhood School</value>
+          </Data>
+          <Data name="Address">
+            <value>Wirraway Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2614</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.23256, Ing: 149.03841</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TAYLOR</name>
+        <address>100 Sutherland Cres TAYLOR 2913 lat: -35.151216, Ing: 149.114337</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Taylor<br>Premises: Margaret Hendry School<br>Address: 100 Sutherland Cres<br>Postcode: 2913<br>Coordinates: lat: -35.151216, Ing: 149.114337<br>Polling area: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Taylor</value>
+          </Data>
+          <Data name="Premises">
+            <value>Margaret Hendry School</value>
+          </Data>
+          <Data name="Address">
+            <value>100 Sutherland Cres</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2913</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.151216, Ing: 149.114337</value>
+          </Data>
+          <Data name="Polling area">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Tharwa</name>
+        <address>North Street Tharwa 2620 lat: -35.508937, Ing: 149.066921</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Tharwa<br>Premises: Tharwa Public Hall<br>Address: North Street<br>Postcode: 2620<br>Coordinates: lat: -35.508937, Ing: 149.066921<br>Polling area: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Tharwa</value>
+          </Data>
+          <Data name="Premises">
+            <value>Tharwa Public Hall</value>
+          </Data>
+          <Data name="Address">
+            <value>North Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2620</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.508937, Ing: 149.066921</value>
+          </Data>
+          <Data name="Polling area">
+            <value/>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Theodore</name>
+        <address>78 Lawrence Wackett Crescent Theodore 2905 lat: -35.447224, Ing: 149.123260</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Theodore<br>Premises: Theodore Primary School<br>Address: 78 Lawrence Wackett Crescent<br>Postcode: 2905<br>Coordinates: lat: -35.447224, Ing: 149.123260<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Theodore</value>
+          </Data>
+          <Data name="Premises">
+            <value>Theodore Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>78 Lawrence Wackett Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2905</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.447224, Ing: 149.123260</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>TUGGERANONG</name>
+        <address><![CDATA[Cnr Anketell St & Reed St North TUGGERANONG 2900 lat: -35.416916, Ing: 149.068625]]></address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Tuggeranong<br>Premises: Salvation Army Hall<br>Address: Cnr Anketell St & Reed St North<br>Postcode: 2900<br>Coordinates: lat: -35.416916, Ing: 149.068625<br>Polling area: Church Hall]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Tuggeranong</value>
+          </Data>
+          <Data name="Premises">
+            <value>Salvation Army Hall</value>
+          </Data>
+          <Data name="Address">
+            <value><![CDATA[Cnr Anketell St & Reed St North]]></value>
+          </Data>
+          <Data name="Postcode">
+            <value>2900</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.416916, Ing: 149.068625</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Church Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Turner</name>
+        <address>32 Condamine Street Turner 2612 lat: -35.265213, lng: 149.126114</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Turner<br>Premises: Turner School<br>Address: 32 Condamine Street<br>Postcode: 2612<br>Coordinates: lat: -35.265213, lng: 149.126114<br>Polling area: Senior Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Turner</value>
+          </Data>
+          <Data name="Premises">
+            <value>Turner School</value>
+          </Data>
+          <Data name="Address">
+            <value>32 Condamine Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2612</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.265213, lng: 149.126114</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Senior Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wanniassa</name>
+        <address>184 Wheeler Crescent Wanniassa 2903 lat: -35.395275, Ing: 149.085660</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Wanniassa<br>Premises: Wanniassa School (Senior Campus)<br>Address: 184 Wheeler Crescent<br>Postcode: 2903<br>Coordinates: lat: -35.395275, Ing: 149.085660<br>Polling area: Gym]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Wanniassa</value>
+          </Data>
+          <Data name="Premises">
+            <value>Wanniassa School (Senior Campus)</value>
+          </Data>
+          <Data name="Address">
+            <value>184 Wheeler Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2903</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.395275, Ing: 149.085660</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Gym</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Wanniassa</name>
+        <address>90 Langdon Avenue Wanniassa 2903 lat: -35.392979, Ing: 149.095490</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Wanniassa Hills<br>Premises: Wanniassa Hills Primary School<br>Address: 90 Langdon Avenue<br>Postcode: 2903<br>Coordinates: lat: -35.392979, Ing: 149.095490<br>Polling area: School Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Wanniassa Hills</value>
+          </Data>
+          <Data name="Premises">
+            <value>Wanniassa Hills Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>90 Langdon Avenue</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2903</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.392979, Ing: 149.095490</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Waramanga</name>
+        <address>69 Nemarang Crescent Waramanga 2611 lat: -35.354439, Ing: 149.059372</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Waramanga<br>Premises: Arawang Primary School<br>Address: 69 Nemarang Crescent<br>Postcode: 2611<br>Coordinates: lat: -35.354439, Ing: 149.059372<br>Polling area: Music Room]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Waramanga</value>
+          </Data>
+          <Data name="Premises">
+            <value>Arawang Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>69 Nemarang Crescent</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.354439, Ing: 149.059372</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Music Room</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Watson</name>
+        <address>101 Knox Street Watson 2606 lat: -35.238582, Ing: 149.15465</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Watson<br>Premises: Majura Primary School<br>Address: 101 Knox Street<br>Postcode: 2606<br>Coordinates: lat: -35.238582, Ing: 149.15465<br>Polling area: Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Watson</value>
+          </Data>
+          <Data name="Premises">
+            <value>Majura Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>101 Knox Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2606</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.238582, Ing: 149.15465</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Weetangera</name>
+        <address>49 Southwell Street Weetangera 2606 lat: -35.251816, Ing: 149.047562</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Weetangera<br>Premises: Weetangera Primary School<br>Address: 49 Southwell Street<br>Postcode: 2606<br>Coordinates: lat: -35.251816, Ing: 149.047562<br>Polling area: Main Hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Weetangera</value>
+          </Data>
+          <Data name="Premises">
+            <value>Weetangera Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>49 Southwell Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2606</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.251816, Ing: 149.047562</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Main Hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Weston</name>
+        <address>11 Brierly St Weston 2611 lat: -35.341953, lng: 149.052064</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Weston Creek<br>Premises: Weston Arcade<br>Address: 11 Brierly St<br>Postcode: 2611<br>Coordinates: lat: -35.341953, lng: 149.052064<br>Polling area: Shop 7]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Weston Creek</value>
+          </Data>
+          <Data name="Premises">
+            <value>Weston Arcade</value>
+          </Data>
+          <Data name="Address">
+            <value>11 Brierly St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2611</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.341953, lng: 149.052064</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Shop 7</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Woden</name>
+        <address>Neptune St Woden 2606 lat: -35.345760, Ing: 149.088493</address>
+        <description><![CDATA[Type: Early Voting Centre<br>Name: Woden<br>Premises: Westfield Woden<br>Address: Neptune St<br>Postcode: 2606<br>Coordinates: lat: -35.345760, Ing: 149.088493<br>Polling area: Shop 1-B4A/B]]></description>
+        <styleUrl>#icon-1899-F57C00</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Early Voting Centre</value>
+          </Data>
+          <Data name="Name">
+            <value>Woden</value>
+          </Data>
+          <Data name="Premises">
+            <value>Westfield Woden</value>
+          </Data>
+          <Data name="Address">
+            <value>Neptune St</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2606</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.345760, Ing: 149.088493</value>
+          </Data>
+          <Data name="Polling area">
+            <value>Shop 1-B4A/B</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>Yarralumla</name>
+        <address>24 Loftus Street Yarralumla 2600 lat: -35.306610, Ing: 149.102264</address>
+        <description><![CDATA[Type: Static Polling Place<br>Name: Yarralumla<br>Premises: Yarralumla Primary School<br>Address: 24 Loftus Street<br>Postcode: 2600<br>Coordinates: lat: -35.306610, Ing: 149.102264<br>Polling area: School hall]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Type">
+            <value>Static Polling Place</value>
+          </Data>
+          <Data name="Name">
+            <value>Yarralumla</value>
+          </Data>
+          <Data name="Premises">
+            <value>Yarralumla Primary School</value>
+          </Data>
+          <Data name="Address">
+            <value>24 Loftus Street</value>
+          </Data>
+          <Data name="Postcode">
+            <value>2600</value>
+          </Data>
+          <Data name="Coordinates">
+            <value>lat: -35.306610, Ing: 149.102264</value>
+          </Data>
+          <Data name="Polling area">
+            <value>School hall</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
