@@ -47,6 +47,6 @@ getPreferencesForPage <- function(url) {
 
 }
 
-act_preferences_2019 <- map_dfr(urls, getPreferencesForPage)
+act_preferences_2020 <- map_dfr(urls, getPreferencesForPage)
 
-usethis::use_data(act_preferences_2019, overwrite = TRUE)
+usethis::use_data(act_preferences_2020, overwrite = TRUE)

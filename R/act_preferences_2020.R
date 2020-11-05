@@ -1,4 +1,4 @@
-#' Preference distribution for the 2019 ACT election
+#' Preference distribution for the 2020 ACT election
 #'
 #' Data is copyright to the ACT Electoral Commission
 #'
@@ -11,4 +11,4 @@
 #'   \item{electorate}{Electorate name}
 #' }
 #' @source \url{https://www.elections.act.gov.au/elections_and_voting/2020_legislative_assembly_election/distribution-of-preferences-2020}
-"act_preferences_2019"
+"act_preferences_2020"

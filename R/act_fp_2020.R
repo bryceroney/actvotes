@@ -1,4 +1,4 @@
-#' First preference results for the 2019 ACT election.
+#' First preference results for the 2020 ACT election.
 #'
 #' Data is copyright to the ACT Electoral Commission
 #'
@@ -9,4 +9,4 @@
 #'   \item{polling_place}{Name of the polling place}
 #' }
 #' @source \url{https://www.electionresults.act.gov.au/Results/PollingPlace}
-"act_fp_2019"
+"act_fp_2020"

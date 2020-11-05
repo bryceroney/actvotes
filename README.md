@@ -26,16 +26,16 @@ devtools::install_github("bryceroney/actvotes")
 This package currently contains the following datasets from the [ACT
 Electoral Commission](https://www.elections.act.gov.au):
 
-  - 2019 Election: Candidates (`act_candidates_2019`), First Preference
-    (`act_fp_2019`) results and final preference distribution
-    (`act_preferences_2019`).
+  - 2020 Election: Polling Places (`act_polling_places_2020`),
+    Candidates (`act_candidates_2020`), First Preference (`act_fp_2020`)
+    results and final preference distribution (`act_preferences_2020`).
 
 ## Usage Example
 
 ``` r
 
-act_fp_2019 %>%
-  inner_join(act_candidates_2019, by=c("candidate"="ballot_paper_name")) %>%
+act_fp_2020 %>%
+  inner_join(act_candidates_2020, by=c("candidate"="ballot_paper_name")) %>%
   filter(polling_place == 'Manuka' & electorate == 'Kurrajong' &
            party %in% c('ACT Labor', 'Canberra Liberals', 'The ACT Greens')) %>%
   mutate(candidate = reorder(candidate, votes),

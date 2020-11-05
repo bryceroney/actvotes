@@ -39,6 +39,6 @@ polling_place_urls <- page_raw %>%
   html_attr('href')
 
 
-act_fp_2019 <- map_dfr(polling_place_urls, getResultsForPollingPlace)
+act_fp_2020 <- map_dfr(polling_place_urls, getResultsForPollingPlace)
 
-usethis::use_data(act_fp_2019, overwrite = TRUE)
+usethis::use_data(act_fp_2020, overwrite = TRUE)

@@ -18,7 +18,7 @@ rows <- rows[5:length(rows)]
 elec_name <- "NA"
 party_name <- "NA"
 
-act_candidates_2019 <- rows %>%
+act_candidates_2020 <- rows %>%
   map_dfr(function(x) {
     if (html_name(x) == "h2") {
       elec_name <<- html_text(x)
@@ -36,7 +36,7 @@ act_candidates_2019 <- rows %>%
   }) %>%
   tibble()
 
-act_candidates_2019 <- act_candidates_2019 %>%
+act_candidates_2020 <- act_candidates_2020 %>%
   filter(!str_detect(candidate, "printable list")) %>%
   mutate(party = ifelse(party == 'UNGROUPED',
                          ifelse(candidate == 'Mohammad Munir HUSSAIN - Australian Federation Party Australian Capital Territory', 'Australian Federation Party Australian Capital Territory', 'Independent'),
@@ -45,8 +45,8 @@ act_candidates_2019 <- act_candidates_2019 %>%
          last_name = str_extract(candidate, '([A-Z]{2,}[A-Z-]*)'),
          first_name = str_replace(candidate, paste0(' ', last_name), ''),
          ballot_paper_name = paste0(last_name, ', ', first_name)) %>%
-  mutate(party = factor(party)) %>%p
+  mutate(party = factor(party)) %>%
   select(-candidate)
 
 
-usethis::use_data(act_candidates_2019, overwrite=TRUE)
+usethis::use_data(act_candidates_2020, overwrite=TRUE)

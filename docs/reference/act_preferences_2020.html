@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Function reference • actvotes</title>
+<title>Preference distribution for the 2020 ACT election — act_preferences_2020 • actvotes</title>
 
 
 <!-- jquery -->
@@ -39,7 +39,8 @@
 
 
 
-<meta property="og:title" content="Function reference" />
+<meta property="og:title" content="Preference distribution for the 2020 ACT election — act_preferences_2020" />
+<meta property="og:description" content="Data is copyright to the ACT Electoral Commission" />
 
 
 
@@ -58,7 +59,7 @@
   </head>
 
   <body data-spy="scroll" data-target="#toc">
-    <div class="container template-reference-index">
+    <div class="container template-reference-topic">
       <header>
       <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
@@ -105,60 +106,36 @@
       </header>
 
 <div class="row">
-  <div class="contents col-md-9">
+  <div class="col-md-9 contents">
     <div class="page-header">
-      <h1>Reference</h1>
+    <h1>Preference distribution for the 2020 ACT election</h1>
+    <small class="dont-index">Source: <a href='https://github.com/bryceroney/actvotes/blob/master/R/act_preferences_2020.R'><code>R/act_preferences_2020.R</code></a></small>
+    <div class="hidden name"><code>act_preferences_2020.Rd</code></div>
     </div>
 
-    <table class="ref-index">
+    <div class="ref-description">
+    <p>Data is copyright to the ACT Electoral Commission</p>
+    </div>
 
-    <colgroup>
-      
-      <col class="alias" />
-      <col class="title" />
-    </colgroup>
+    <pre class="usage"><span class='va'>act_preferences_2020</span></pre>
 
-    <tbody>
-      <tr>
-        <th colspan="2">
-          <h2 id="section-all-functions" class="hasAnchor"><a href="#section-all-functions" class="anchor"></a>All functions</h2>
-          <p class="section-desc"></p>
-        </th>
-      </tr>
-      
-      
-    </tbody><tbody>
-      
-      
-      <tr>
-        
-        <td>
-          <p><code><a href="act_candidates_2020.html">act_candidates_2020</a></code> </p>
-        </td>
-        <td><p>List of candidates in the 2020 ACT election.</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="act_fp_2020.html">act_fp_2020</a></code> </p>
-        </td>
-        <td><p>First preference results for the 2020 ACT election.</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="act_polling_places_2020.html">act_polling_places_2020</a></code> </p>
-        </td>
-        <td><p>Polling places for the 2020 ACT election</p></td>
-      </tr><tr>
-        
-        <td>
-          <p><code><a href="act_preferences_2020.html">act_preferences_2020</a></code> </p>
-        </td>
-        <td><p>Preference distribution for the 2020 ACT election</p></td>
-      </tr>
-    </tbody>
-    </table>
+
+    <h2 class="hasAnchor" id="format"><a class="anchor" href="#format"></a>Format</h2>
+
+    <p>A data frame with 13289 rows and 3 variables:</p><dl>
+  <dt>count</dt><dd><p>Stage of the count</p></dd>
+  <dt>type</dt><dd><p>Type of result, either distribution or final</p></dd>
+  <dt>name</dt><dd><p>Candidate's name</p></dd>
+  <dt>votes</dt><dd><p>Number of votes</p></dd>
+  <dt>electorate</dt><dd><p>Electorate name</p></dd>
+
+</dl>
+
+    <h2 class="hasAnchor" id="source"><a class="anchor" href="#source"></a>Source</h2>
+
+    <p><a href='https://www.elections.act.gov.au/elections_and_voting/2020_legislative_assembly_election/distribution-of-preferences-2020'>https://www.elections.act.gov.au/elections_and_voting/2020_legislative_assembly_election/distribution-of-preferences-2020</a></p>
+
   </div>
-
   <div class="col-md-3 hidden-xs hidden-sm" id="pkgdown-sidebar">
     <nav id="toc" data-toggle="toc" class="sticky-top">
       <h2 data-toc-skip>Contents</h2>

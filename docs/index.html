@@ -86,7 +86,7 @@
 <a href="#datasets" class="anchor"></a>Datasets</h2>
 <p>This package currently contains the following datasets from the <a href="https://www.elections.act.gov.au">ACT Electoral Commission</a>:</p>
 <ul>
-<li>2019 Election: Candidates (<code>act_candidates_2019</code>), First Preference (<code>act_fp_2019</code>) results and final preference distribution (<code>act_preferences_2019</code>).</li>
+<li>2020 Election: Polling Places (<code>act_polling_places_2020</code>), Candidates (<code>act_candidates_2020</code>), First Preference (<code>act_fp_2020</code>) results and final preference distribution (<code>act_preferences_2020</code>).</li>
 </ul>
 </div>
 <div id="usage-example" class="section level2">
@@ -94,8 +94,8 @@
 <a href="#usage-example" class="anchor"></a>Usage Example</h2>
 <div class="sourceCode" id="cb2"><pre class="downlit">
 
-<span class="va">act_fp_2019</span> <span class="op">%&gt;%</span>
-  <span class="fu">inner_join</span><span class="op">(</span><span class="va">act_candidates_2019</span>, by<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="st">"candidate"</span><span class="op">=</span><span class="st">"ballot_paper_name"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span>
+<span class="va">act_fp_2020</span> <span class="op">%&gt;%</span>
+  <span class="fu">inner_join</span><span class="op">(</span><span class="va">act_candidates_2020</span>, by<span class="op">=</span><span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="st">"candidate"</span><span class="op">=</span><span class="st">"ballot_paper_name"</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span>
   <span class="fu"><a href="https://rdrr.io/r/stats/filter.html">filter</a></span><span class="op">(</span><span class="va">polling_place</span> <span class="op">==</span> <span class="st">'Manuka'</span> <span class="op">&amp;</span> <span class="va">electorate</span> <span class="op">==</span> <span class="st">'Kurrajong'</span> <span class="op">&amp;</span>
            <span class="va">party</span> <span class="op">%in%</span> <span class="fu"><a href="https://rdrr.io/r/base/c.html">c</a></span><span class="op">(</span><span class="st">'ACT Labor'</span>, <span class="st">'Canberra Liberals'</span>, <span class="st">'The ACT Greens'</span><span class="op">)</span><span class="op">)</span> <span class="op">%&gt;%</span>
   <span class="fu">mutate</span><span class="op">(</span>candidate <span class="op">=</span> <span class="fu"><a href="https://rdrr.io/r/stats/reorder.factor.html">reorder</a></span><span class="op">(</span><span class="va">candidate</span>, <span class="va">votes</span><span class="op">)</span>,
