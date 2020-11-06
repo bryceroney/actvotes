@@ -1,0 +1,70 @@
+---
+title: "Party Primary Vote Analysis"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Party Primary Vote Analysis}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup}
+library(actvotes)
+```
+
+## Graphing election results
+The below graph shows each of the three major parties' strongest booths across the ACT:
+
+```{r graphs, fig.width=6, fig.height=4}
+library(dplyr)
+library(ggplot2)
+
+act_fp_2020 %>%
+  inner_join(act_candidates_2020, by=c("candidate"="ballot_paper_name")) %>%
+  group_by(polling_place, party) %>%
+  summarise(votes = sum(votes)) %>%
+  add_tally(wt=votes) %>%
+  mutate(percent = votes/n) %>%
+  ungroup() %>%
+  filter(party %in% c('ACT Labor', 'Canberra Liberals', 'The ACT Greens')) %>%
+  group_by(party) %>%
+  top_n(5, wt=percent) %>%
+  mutate(polling_place = reorder(polling_place, percent)) %>%
+  ggplot(aes(x=polling_place, y=percent)) +
+  geom_col() +
+  facet_wrap(~party, scales='free_y', ncol=1) +
+  coord_flip() +
+  scale_y_continuous(labels=scales::percent_format()) +
+  labs(x=NULL, y='First Preferences (%)') +
+  theme_minimal()
+```
+
+## Mapping results
+The `act_polling_places_2020` object is an `sf` object which has spatial data for each of the polling places.
+
+The below example is a simple `leaflet::leaflet()` map, with the size of the circles determined by the total number of votes cast.
+
+You can do other analyses, including in `ggplot2` with `ggplot2::geom_sf()`
+
+```{r map, fig.width=6, warning=FALSE}
+library(sf)
+library(leaflet)
+
+votes_by_polling_place <- act_fp_2020 %>%
+  group_by(polling_place) %>%
+  summarise(votes=sum(votes)) %>%
+  ungroup() 
+
+act_polling_places_2020 %>%
+  inner_join(votes_by_polling_place, by=c("Name"="polling_place")) %>%
+  leaflet() %>%
+  addTiles() %>%
+  addCircleMarkers(label = ~paste(Name, '- Votes:', votes), radius=~votes/100)
+
+```

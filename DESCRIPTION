@@ -9,11 +9,18 @@ Maintainer: Bryce Roney <brycer22@gmail.com>
 Encoding: UTF-8
 LazyData: true
 License: MIT + file LICENSE
-URL: https://github.com/bryceroney/actvotes
+URL: https://bryceroney.github.io/actvotes, https://github.com/bryceroney/actvotes
 BugReports: https://github.com/bryceroney/actvotes/issues
 Depends: 
     R (>= 2.10)
 RoxygenNote: 7.1.1
 Suggests: 
     testthat,
-    sf
+    sf,
+    knitr,
+    rmarkdown,
+    dplyr,
+    ggplot2,
+    leaflet,
+    scales
+VignetteBuilder: knitr
