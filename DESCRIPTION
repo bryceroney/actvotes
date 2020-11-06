@@ -3,7 +3,7 @@ Type: Package
 Title: Results and Analysis for ACT Election Results
 Description: This package aims to contain a number of datasets
     and analysis functions for ACT Electoral data.
-Version: 0.1.1
+Version: 0.1.2
 Author: Bryce Roney <brycer22@gmail.com>
 Maintainer: Bryce Roney <brycer22@gmail.com>
 Encoding: UTF-8
