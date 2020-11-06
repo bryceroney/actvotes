@@ -1,0 +1,6 @@
+url: https://bryceroney.github.io/actvotes
+reference:
+  - title: "2020 Data"
+    desc: "Datasets for the 2020 ACT Election"
+    contents:
+      - ends_with("_2020")

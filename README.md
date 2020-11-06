@@ -30,29 +30,6 @@ Electoral Commission](https://www.elections.act.gov.au):
     Candidates (`act_candidates_2020`), First Preference (`act_fp_2020`)
     results and final preference distribution (`act_preferences_2020`).
 
-## Usage Example
+## How to use
 
-``` r
-
-act_fp_2020 %>%
-  inner_join(act_candidates_2020, by=c("candidate"="ballot_paper_name")) %>%
-  filter(polling_place == 'Manuka' & electorate == 'Kurrajong' &
-           party %in% c('ACT Labor', 'Canberra Liberals', 'The ACT Greens')) %>%
-  mutate(candidate = reorder(candidate, votes),
-         votes = votes/sum(votes)) %>%
-  ggplot(aes(x=candidate, y=votes)) +
-  geom_col() +
-  coord_flip() +
-  scale_y_continuous(labels = scales::percent_format()) +
-  facet_wrap(~party, scales='free_y', ncol=1) +
-  labs(
-    title = 'Votes by candidate for the three major parties',
-    subtitle = 'Manuka polling place',
-    y = 'Votes (%)',
-    x = NULL,
-    caption = 'Source: ACT Electoral Commission'
-  ) +
-  theme_bw()
-```
-
-<img src="man/figures/README-plot-1.png" width="100%" />
+See `vignette("act2020")` for examples on usage.
